@@ -2,7 +2,7 @@ package Projek_besar1;
 
 import java.util.Scanner;
 
-public class manajemen_menuKasir {
+public class menu_makanan {
     
  public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -86,3 +86,4 @@ public class manajemen_menuKasir {
         input.close(); // tutup scanner untuk menghindari memory leak
     }
 }
+
